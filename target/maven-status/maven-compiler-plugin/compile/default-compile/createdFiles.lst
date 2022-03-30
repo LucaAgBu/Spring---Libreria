@@ -1,0 +1,12 @@
+libreria\libreria\repositorios\LibroRepositorio.class
+libreria\libreria\repositorios\AutorRepositorio.class
+libreria\libreria\servicios\LibroService.class
+libreria\libreria\repositorios\EditorialRepositorio.class
+libreria\libreria\servicios\EditorialService.class
+libreria\libreria\servicios\AutorService.class
+libreria\libreria\entidades\Prestamo.class
+libreria\libreria\entidades\Libro.class
+libreria\libreria\entidades\Cliente.class
+libreria\libreria\entidades\Editorial.class
+libreria\libreria\entidades\Autor.class
+libreria\libreria\Errores\ErrorServicio.class
